@@ -1,0 +1,17 @@
+[
+  {
+    "user": "John",
+    "msg": "Hi",
+    "time": "19:00"
+  },
+  {
+    "user": "Nat",
+    "msg": "Hello",
+    "time": "19:01"
+  },
+  {
+    "user": "John",
+    "msg": "How are you?",
+    "time": "19:02"
+  }
+]
